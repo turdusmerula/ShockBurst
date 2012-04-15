@@ -1,0 +1,17 @@
+shockBurst -- a simple library implementing NRF24L01+ Shockburst protocl 
+
+https://github.com/turdusmerula/ShockBurst
+
+
+Shockburst is a simple library implementing the shockburst protocol of the 
+NRF24L01+ for the avr.
+This library was inspirated by the Mirf library  but was rewritten for my own
+need (and mainly becaus I needed to fully understand what was done).
+
+(C) 2011-2012, Sebastien Besombes <sebastien.besombes@gmail.com>
+
+PREREQUISITES:
+The library uses the SPI library from the Arduino project.
+The examples will need:
+ - the Enerlib library (http://arduino.cc/playground/Code/Enerlib)
+ - the FlexiTimer2 library (http://arduino.cc/playground/Main/FlexiTimer2)
