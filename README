@@ -1,12 +1,12 @@
-shockBurst -- a simple library implementing NRF24L01+ Shockburst protocl 
+shockBurst -- a simple library implementing NRF24L01+ Shockburst protocol 
 
 https://github.com/turdusmerula/ShockBurst
 
 
 Shockburst is a simple library implementing the shockburst protocol of the 
 NRF24L01+ for the avr.
-This library was inspirated by the Mirf library  but was rewritten for my own
-need (and mainly becaus I needed to fully understand what was done).
+This library was inspirated by the Mirf library but was rewritten for my own
+need (and mainly because I needed to fully understand what was done).
 
 (C) 2011-2012, Sebastien Besombes <sebastien.besombes@gmail.com>
 
